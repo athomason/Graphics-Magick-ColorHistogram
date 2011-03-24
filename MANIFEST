@@ -1,0 +1,9 @@
+Changes
+ColorHistogram.pm
+ColorHistogram.xs
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+t/00-compile.t
+t/01-histogram.t
+t/test.jpg
