@@ -7,6 +7,8 @@
 
 MODULE = Graphics::Magick::ColorHistogram  PACKAGE = Graphics::Magick::ColorHistogram
 
+PROTOTYPES: ENABLE
+
 SV*
 histogram(file, colors_wanted = 0)
     char* file
